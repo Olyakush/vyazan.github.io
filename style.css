@@ -27,6 +27,7 @@ h1 {
 }
 
 .container {
+  width: 100%;
   max-width: 1000px;
   padding: 36.8px 50px 40px 42px;
 }
