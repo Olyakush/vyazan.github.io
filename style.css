@@ -145,3 +145,7 @@ h1{
 .img-socials:last-child { 
   margin-right: 0;
 }
+
+*{
+    box-sizing: border-box;
+}
