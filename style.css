@@ -120,7 +120,7 @@ h1{
 }
 
 .img-item {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   flex-basis: 100%;
   max-width: 100%;
 }
@@ -140,7 +140,7 @@ h1{
 }
 
 .img-socials {
-  margin-right: 40px;
+  margin-right: 60px;
 }
 
 .img-socials:last-child { 
