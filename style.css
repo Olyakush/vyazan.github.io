@@ -9,6 +9,10 @@ body {
     margin: 0;
   }
 
+.img {
+    img display: block;
+}
+
 .page{
     display: flex;
     justify-content: center;
@@ -145,10 +149,6 @@ h1{
 
 .img-socials:last-child { 
   margin-right: 0;
-}
-
-.img {
-    img display: block;
 }
 
 *{
