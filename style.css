@@ -123,6 +123,7 @@ h1{
   margin-bottom: 10px;
   flex-basis: 100%;
   max-width: 100%;
+  img display: block;
 }
 
 .footer {
@@ -141,10 +142,12 @@ h1{
 
 .img-socials {
   margin-right: 60px;
+  img display: block;
 }
 
 .img-socials:last-child { 
   margin-right: 0;
+  img display: block;
 }
 
 *{
